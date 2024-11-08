@@ -7,12 +7,12 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=froXVK7D#IGypX0Ttk598VFtxyirR9D7F7IHNIRcjLpE-7Dibmug",
       "required": true
     },  
 
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github auth token url..",
+      "description": "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",
       "required": true
     },
     "GITHUB_USERNAME": {
